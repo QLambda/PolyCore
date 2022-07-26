@@ -4,3 +4,34 @@
 2022-07-26 13:31:46.560288000000 [89521(ThreadId 17)] INFO APP - disconnect.
 2022-07-26 13:31:46.561462000000 [89521(ThreadId 18)] INFO RESPONSE - disconnect. end of response thread.
 2022-07-26 13:31:46.562476000000 [89521(ThreadId 15)] INFO HDA - some threads stopped. exit.
+2022-07-26 21:51:52.626852789000 [13481(ThreadId 9)] INFO APP - "--with-ghc" option not found. adding "--with-ghc=ghci-dap"
+2022-07-26 21:51:52.640678460000 [13481(ThreadId 9)] ERROR APP - stack: runProcess: exec: does not exist (No such file or directory)
+2022-07-26 21:51:52.806083010000 [13481(ThreadId 9)] INFO APP - disconnect.
+2022-07-26 21:51:52.807412127000 [13481(ThreadId 10)] INFO RESPONSE - disconnect. end of response thread.
+2022-07-26 21:51:52.808925446000 [13481(ThreadId 7)] INFO HDA - some threads stopped. exit.
+2022-07-26 21:52:33.337372053000 [13767(ThreadId 9)] INFO APP - "--with-ghc" option not found. adding "--with-ghc=ghci-dap"
+2022-07-26 21:52:33.340103187000 [13767(ThreadId 9)] ERROR APP - stack: runProcess: exec: does not exist (No such file or directory)
+2022-07-26 21:52:33.482790482000 [13767(ThreadId 9)] INFO APP - disconnect.
+2022-07-26 21:52:33.483982497000 [13767(ThreadId 10)] INFO RESPONSE - disconnect. end of response thread.
+2022-07-26 21:52:33.486660731000 [13767(ThreadId 7)] INFO HDA - some threads stopped. exit.
+2022-07-26 21:54:12.473585221000 [14581(ThreadId 9)] ERROR APP - cabal: runProcess: exec: does not exist (No such file or directory)
+2022-07-26 21:54:12.642042046000 [14581(ThreadId 9)] INFO APP - disconnect.
+2022-07-26 21:54:12.643348062000 [14581(ThreadId 10)] INFO RESPONSE - disconnect. end of response thread.
+2022-07-26 21:54:12.644466876000 [14581(ThreadId 7)] INFO HDA - some threads stopped. exit.
+2022-07-26 21:55:31.268130031000 [16219(ThreadId 11)] INFO WATCH - start watching /workspaces/PolyCore
+2022-07-26 21:55:36.039040128000 [16219(ThreadId 9)] ERROR APP - [CRITICAL] can not get the initial ghci prompt.
+2022-07-26 21:55:36.268243420000 [16219(ThreadId 9)] INFO APP - disconnect.
+2022-07-26 21:55:36.269533836000 [16219(ThreadId 10)] INFO RESPONSE - disconnect. end of response thread.
+2022-07-26 21:55:36.270699951000 [16219(ThreadId 7)] INFO HDA - some threads stopped. exit.
+2022-07-26 21:55:54.989718112000 [17539(ThreadId 9)] INFO APP - "--with-ghc" option not found. adding "--with-ghc=ghci-dap"
+2022-07-26 21:55:55.799762089000 [17539(ThreadId 11)] INFO WATCH - start watching /workspaces/PolyCore
+2022-07-26 21:56:04.626657983000 [17539(ThreadId 9)] INFO HDA - force kill ghci.
+2022-07-26 21:56:04.726397240000 [17539(ThreadId 9)] INFO APP - disconnect.
+2022-07-26 21:56:04.733395428000 [17539(ThreadId 10)] INFO RESPONSE - disconnect. end of response thread.
+2022-07-26 21:56:04.735181651000 [17539(ThreadId 7)] INFO HDA - some threads stopped. exit.
+2022-07-26 21:56:08.416850551000 [18101(ThreadId 9)] INFO APP - "--with-ghc" option not found. adding "--with-ghc=ghci-dap"
+2022-07-26 21:56:09.242140659000 [18101(ThreadId 11)] INFO WATCH - start watching /workspaces/PolyCore
+2022-07-26 21:56:57.420027534000 [18101(ThreadId 9)] INFO HDA - force kill ghci.
+2022-07-26 21:56:57.552614112000 [18101(ThreadId 9)] INFO APP - disconnect.
+2022-07-26 21:56:57.553795427000 [18101(ThreadId 10)] INFO RESPONSE - disconnect. end of response thread.
+2022-07-26 21:56:57.555996155000 [18101(ThreadId 7)] INFO HDA - some threads stopped. exit.
