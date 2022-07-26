@@ -1,0 +1,10 @@
+{
+    "haskell.plugin.eval.config.exception": false,
+    "haskell.formattingProvider": "brittany",
+    "haskell.ghcupExecutablePath": "~/.ghcup/bin/ghcup",
+    "haskell.manageHLS": "GHCup",
+    "cSpell.words": [
+        "rtsopts"
+    ],
+    "haskell.checkProject": false
+}

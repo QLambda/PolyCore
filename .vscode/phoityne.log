@@ -1,0 +1,6 @@
+2022-07-26 13:31:37.186806000000 [89521(ThreadId 17)] INFO APP - "--with-ghc" option not found. adding "--with-ghc=ghci-dap"
+2022-07-26 13:31:38.172552000000 [89521(ThreadId 19)] INFO WATCH - start watching /Users/mcaro/workbench-personnal/PolyCore
+2022-07-26 13:31:39.810079000000 [89521(ThreadId 17)] ERROR APP - user error (<getModule> loaded module can not find from path. </Users/mcaro/workbench-personnal/PolyCore/app/Main.hs> [("Lib","/Users/mcaro/workbench-personnal/PolyCore/src/Lib.hs"),("Main","/Users/mcaro/workbench-personnal/PolyCore/test/Spec.hs")])
+2022-07-26 13:31:46.560288000000 [89521(ThreadId 17)] INFO APP - disconnect.
+2022-07-26 13:31:46.561462000000 [89521(ThreadId 18)] INFO RESPONSE - disconnect. end of response thread.
+2022-07-26 13:31:46.562476000000 [89521(ThreadId 15)] INFO HDA - some threads stopped. exit.

@@ -1,6 +1,11 @@
 module Lib
-    ( someFunc
-    ) where
+  ( someFunc
+  , pal
+  ) where
 
-someFunc :: IO ()
-someFunc = putStrLn "someFunc"
+
+pal xs | xs == reverse xs = True
+       | otherwise        = False
+
+someFunc = putStrLn  "someFunc"
+
