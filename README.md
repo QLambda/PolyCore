@@ -1,8 +1,8 @@
 # PolyCore
+PolyCore is a parser and type checker for a simple functional languaje. The ourput is the parsed program and the type check result. 
 
 
 ## Setup and Build
-
 
 **Pre Requisite**
 ```bash
