@@ -11,6 +11,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://get-ghcup.haskell.org | sh
 
 **Setup**
 ```bash
+$ . ~/.bashrc 
 $ stack setup
 $ stack update
 $ stack install haskell-dap ghci-dap haskell-debug-adapter
