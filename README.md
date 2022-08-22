@@ -34,4 +34,11 @@ https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/compiler/fc
 https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/compiler/core-syn-type
 https://www.microsoft.com/en-us/research/wp-content/uploads/2007/01/tldi22-sulzmann-with-appendix.pdf
 
+## Core Semantic and Syntax ##
+https://github.com/kframework/haskell-core-semantics
+https://github.com/kframework/haskell-core-semantics/tree/master/compile-to-core
+
+
+
+
 
